@@ -1,16 +1,30 @@
-### Hi there 👋
+```js
+console.log("Congratulations, you find my profile!");
+```
 
-<!--
-**luckasRanarison/luckasRanarison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import { Person } from "person";
 
-Here are some ideas to get you started:
+const Me = new Person({
+    fullname: "LIOKA Ranarison Fiderana",
+    surname: "Luckas",
+    gender: "Male",
+    age: 17,
+    country: "Madagascar",
+    city: "Antananarivo",
+    languages: ["Malagasy", "French", "English", "Japanese"],
+    hobbies: ["Cubing", "Programming", "Gaming", "Reading"],
+    university: "ISPM", // 1st year student
+});
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+export default Me;
+```
+
+<div style="background-color: #2e3440;">
+    <a href="https://github.com/luckasRanarison/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=luckasRanarison&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Anurag's github stats" />
+    </a>  
+    <a href="https://github.com/luckasRanarison/github-readme-stats">
+        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckasRanarison&layout=compact&theme=nord&hide_border=true" />
+    </a>
+</div>
