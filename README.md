@@ -27,7 +27,7 @@ export default Me;
 <table align="center" width="full">
     <tr>
         <td>
-            <a href="https://github.com/luckasRanarison/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=luckasRanarison&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Anurag's github stats" /></a>
+            <a href="https://github.com/luckasRanarison/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=luckasRanarison&show_icons=true&theme=nord&hide_border=true" alt="Anurag's github stats" /></a>
         </td>
         <td>
             <a href="https://github.com/luckasRanarison/github-readme-stats"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckasRanarison&layout=compact&theme=nord&hide_border=true" /></a>
